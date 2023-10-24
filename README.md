@@ -1,2 +1,2 @@
 # subtitle-editor
-This project allows you to modify exisiting subtitle file that is written in standardize format. You can bold
+This project allows you to modify exisiting subtitle file that is written in standardize format. You can bold, underline parts of the text, make it italic or remove any of theese styles. It is possible to shift all subtitles in time (forward or backward), insert new subtitles or remove existing ones. Subtitles with long lines or long time can be split into several subtitles and subtitle files can be merged.
